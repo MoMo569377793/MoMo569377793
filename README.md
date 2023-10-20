@@ -4,7 +4,7 @@
 
 所以现在能有显示挺不容易的了，说不定我哪天就把密码给忘了
 
-![拉个大电](sources/拉大电.gif)
+![拉个大电](resources/拉大电.gif)
 
 <!--
 **MoMo569377793/MoMo569377793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
