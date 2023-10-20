@@ -1,5 +1,7 @@
 ## 十里八乡知名菜狗
 
+*-- To be someone who loves life, just be like a ray of sunshine*
+
 😭该怎样不让别人知道这个Readme我push了四次才push上来，然后我把仓库删了的故事
 
 ![拉个大电](resources/拉大电.gif)
